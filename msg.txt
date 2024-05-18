@@ -1,0 +1,2 @@
+This is a dice challenge game of two players. 
+It randomly rolls 2 dice and declare the winner.
