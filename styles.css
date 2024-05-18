@@ -32,6 +32,27 @@ img {
   width: 80%;
 }
 
+button {
+  cursor: pointer;
+  color: #4ECCA3;
+  border-radius: 1rem;
+  border: 1px solid #4ECCA3;
+  margin: 1rem 0;
+  background: none;
+  padding: .5rem 1rem;
+  transition-property: transform;
+  transition-duration: .1s;
+}
+
+button:hover {
+  background-color: #4ECCA3;
+  color: white;
+}
+
+button:active {
+  transform: translateY(2px);
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
